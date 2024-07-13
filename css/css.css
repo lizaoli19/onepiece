@@ -1,0 +1,96 @@
+/* ############################################################ Vagner ############################################################ */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+nav{
+    height: 80px !important;
+}
+
+nav,a{
+    color: #fff !important;
+}
+a:hover{
+    color: #fffb00 !important;
+    text-shadow: 0px 0px 10px #ff6f00;
+}
+
+#carouselExample{    
+    height: 100vh !important;    
+} 
+
+#historiaV_caixaTexto{
+    background-color: transparent !important;
+}
+
+#tripV{
+    margin: 50px 0 50px 0;
+}
+#historiaV{
+    /* margin: 100px 0 50px 0; */
+    height: 600px;
+    background-color: #ebebeb;
+}
+#fundo_apenasV{
+    height: 800px;
+    background: url("/wallV/fundo.jpg") center / cover no-repeat fixed padding-box;
+}
+
+#imgTripulacaoV{
+    width: 400px !important;
+    height: 250px;
+}
+#tripulacaoV{
+    background-color: #212529;
+    color: #d2d2d2;
+    padding: 70px;
+}
+#historiaV_caixaTexto{
+    background-color: rgb(211, 211, 211) !important;
+    /* box-shadow: 0px 10px 30px #b3b3b3; */
+    border: #fff solid 1px !important;
+}
+#creditosV{
+    height: 200px;
+    background-color: antiquewhite;
+}
+#agradecimentosV{
+    font-family: "Parisienne", cursive;
+  font-size: 40px;
+  font-style: normal;
+}
+footer{
+    padding: 20px;
+    background-color: #212529;
+    color: #fff;
+    height: 60px;
+}
+p{
+    text-align: justify;
+}
+#assistirV{
+    height: 500px;
+    background-color: #5981a8;
+    color: #fff;
+}
+#imgAssistirV{
+    height: 200px;
+    background-color: transparent;
+    filter: grayscale(100);
+    border: none;
+    
+}
+#imgAssistirV:hover{
+    filter: grayscale(0);
+}
+/* ############################################################ fim vagner ############################################################ */
+/* eliza */
+<style>
+        .fruta img {
+          width: 400px;
+          height: 250px;
+          margin-right: 10px;
+          border: 1px solid #ddd;
+          border-radius: 5px;
+        }
