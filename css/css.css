@@ -34,7 +34,7 @@ a:hover{
 }
 #fundo_apenasV{
     height: 800px;
-    background: url("/wallV/fundo.jpg") center / cover no-repeat fixed padding-box;
+    background: url("wallV/fundo.jpg") center / cover no-repeat fixed padding-box;
 }
 
 #imgTripulacaoV{
